@@ -9,7 +9,7 @@ This is a guide to learn hacking
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
 - [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals  
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting 
-**Introductory CTFs to get your feet wet** 
+- **Introductory CTFs to get your feet wet** 
 - [ ] Google Dorking https://tryhackme.com/room/googledorking 
 - [ ] OHsint https://tryhackme.com/room/ohsint  
 - [ ] Shodan.io https://tryhackme.com/room/shodan 
@@ -24,7 +24,7 @@ This is a guide to learn hacking
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning 
 - [ ] Shodan https://tryhackme.com/room/shodan 
 - [ ] RustScan https://tryhackme.com/room/rustscan 
-**More introductory CTFs** 
+- **More introductory CTFs** 
 - [ ] Vulnversity - https://tryhackme.com/room/vulnversity 
 - [ ] Blue - https://tryhackme.com/room/blue 
 - [ ] Simple CTF https://tryhackme.com/room/easyctf 
