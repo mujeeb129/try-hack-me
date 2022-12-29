@@ -3,7 +3,7 @@ This is a guide to learn hacking
 
 # Level 1 
 - Intro 
-- [👍] OpenVPN https://tryhackme.com/room/openvpn 
+- [x] OpenVPN https://tryhackme.com/room/openvpn 
 - [ ] Welcome https://tryhackme.com/jr/welcome - 
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
