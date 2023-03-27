@@ -7,7 +7,7 @@ This is a guide to learn hacking
 - [x] Welcome https://tryhackme.com/jr/welcome - 
 - [x] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
-- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals  
+- [x] Learn Linux https://tryhackme.com/module/linux-fundamentals  
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting 
 - **Introductory CTFs to get your feet wet** 
 - [ ] Google Dorking https://tryhackme.com/room/googledorking 
