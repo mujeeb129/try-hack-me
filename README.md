@@ -6,7 +6,7 @@ This is a guide to learn hacking
 - [x] OpenVPN https://tryhackme.com/room/openvpn 
 - [x] Welcome https://tryhackme.com/jr/welcome - 
 - [x] Intro to Researching https://tryhackme.com/room/introtoresearch
-- [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
+- [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
 - [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals  
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting 
 - **Introductory CTFs to get your feet wet** 
